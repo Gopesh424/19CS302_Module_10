@@ -52,7 +52,21 @@ RegisterNumber:
 ```
 
 ## Output:
+head= NULL;
 
+insert('a');
+
+insert('b');
+
+insert('c');
+
+display();
+
+a
+
+b
+
+c
 
 
 ## Result:
